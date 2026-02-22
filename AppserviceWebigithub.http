@@ -1,0 +1,6 @@
+@AppserviceWebigithub_HostAddress = http://localhost:5241
+
+GET {{AppserviceWebigithub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
