@@ -13,7 +13,7 @@ namespace AppserviceWebigithub.Controllers
         {
             var employees = new[]
             {
-                new employee{Eno=1,Name="shaik fuzail"},
+                new employee{Eno=1,Name="shaik fuzail Basha"},
                 new employee{Eno=2,Name="shaik suhail"},
                 new employee{Eno=3,Name="shaik vazid"},
                 new employee{Eno=4,Name="shaik mujahid"}
